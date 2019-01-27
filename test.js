@@ -1,4 +1,0 @@
-
-function runEmma(){
-alert("hj"); 
-}
